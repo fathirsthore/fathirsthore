@@ -15,7 +15,7 @@
 
 *Building & selling Telegram bots, WhatsApp bots, Flutter apps, and web tools.*
 
-[![Telegram](https://img.shields.io/badge/Telegram-@fathirsthore2-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fathirsthore)
+[![Telegram](https://img.shields.io/badge/Telegram-@fathirsthore-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fathirsthore)
 [![YouTube](https://img.shields.io/badge/YouTube-Fathir_Sthore-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fathirsthore)
 [![Website](https://img.shields.io/badge/Store-fathirsthore.my.id-0A66C2?style=flat-square&logo=globe&logoColor=white)](https://fathirsthore.my.id)
 
