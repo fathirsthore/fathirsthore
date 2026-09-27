@@ -15,7 +15,7 @@
 
 *Building & selling Telegram bots, WhatsApp bots, Flutter apps, and web tools.*
 
-[![Telegram](https://img.shields.io/badge/Telegram-@fathirsthore2-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fathirsthore2)
+[![Telegram](https://img.shields.io/badge/Telegram-@fathirsthore2-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fathirsthore)
 [![YouTube](https://img.shields.io/badge/YouTube-Fathir_Sthore-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fathirsthore)
 [![Website](https://img.shields.io/badge/Store-fathirsthore.my.id-0A66C2?style=flat-square&logo=globe&logoColor=white)](https://fathirsthore.my.id)
 
@@ -31,7 +31,7 @@ const fathir = {
   location : "Indonesia 🇮🇩",
   brand    : ["Fathir Sthore", "Fathir Code"],
   role     : ["Bot Developer", "Full Stack Dev", "App Developer"],
-  telegram : "@fathirsthore2",
+  telegram : "@fathirsthore",
   openTo   : ["Freelance", "Collab", "Custom Bot Orders"],
 };
 ```
@@ -91,7 +91,7 @@ const fathir = {
 
 > **DM langsung atau kunjungi store:**
 
-[![Order Now](https://img.shields.io/badge/💬_Order_via_Telegram-@fathirsthore2-2CA5E0?style=for-the-badge)](https://t.me/fathirsthore2)
+[![Order Now](https://img.shields.io/badge/💬_Order_via_Telegram-@fathirsthore2-2CA5E0?style=for-the-badge)](https://t.me/fathirsthore)
 [![Visit Store](https://img.shields.io/badge/🛍️_Fathir_Code_Store-fathirsthore.my.id-0A66C2?style=for-the-badge)](https://fathirsthore.my.id)
 
 </div>
