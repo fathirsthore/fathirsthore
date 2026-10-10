@@ -57,6 +57,9 @@ const fathir = {
 
 </div>
 
+<p align="center">
+  <img src="./assets/characters.svg" width="420"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
